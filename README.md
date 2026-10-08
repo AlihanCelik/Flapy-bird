@@ -119,3 +119,4 @@ flapy bird/
 3. **Gece / Gündüz Modu:** Belirli bir skora ulaşınca gökyüzü renklerini gece moduna dönüştürmek ve yıldızlar eklemek.
 4. **Çift Oyunculu Mod (Local 2-Player):** İkinci bir kuş ekleyip biri `BOŞLUK`, diğeri `W` tuşu ile kontrol edilecek şekilde rekabetçi mod yapmak.
 # Flapy-bird
+# Flapy-bird
